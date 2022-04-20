@@ -1,0 +1,5 @@
+com\ufkunl\rabbitmqexample\ConsumerService.class
+com\ufkunl\rabbitmqexample\Employee.class
+com\ufkunl\rabbitmqexample\RabbitMQConfig.class
+com\ufkunl\rabbitmqexample\RabbitMQController.class
+com\ufkunl\rabbitmqexample\RabbitMqExampleApplication.class
